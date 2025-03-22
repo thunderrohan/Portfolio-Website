@@ -33,7 +33,8 @@ My personal portfolio website showcasing projects and skills.
 - [Live Demo](https://thunderrohannn.github.io/Portfolio-Website/)
 
 ### Stone,Paper and Scissors Game
--Fun Interactive game
--Displays Score
+- Fun Interactive game
+- Displays Score
+- [Live Demo](https://thunderrohannn.github.io/rock-paper-scissors/)
 
 Thanks that's all for now!
