@@ -2,7 +2,7 @@
 My personal portfolio website showcasing projects and skills.
 
 ## 🚀 Live Demo
-[Visit Website](https://thunderrohannn.github.io/Portfolio-Website/)
+[Visit Website](https://thunderrohan.github.io/Portfolio-Website/)
 
 ## ✨ Features
 - Responsive Design
@@ -24,17 +24,17 @@ My personal portfolio website showcasing projects and skills.
 - Interactive virtual tour creator
 - 360-degree image visualization
 - Custom hotspot configuration
-- [Live Demo](https://thunderrohannn.github.io/360V-WebTourMaker/)
+- [Live Demo](https://thunderrohan.github.io/360V-WebTourMaker/)
 
 ### Portfolio Website
 - Personal showcase platform
 - Responsive grid layout
 - Interactive project cards
-- [Live Demo](https://thunderrohannn.github.io/Portfolio-Website/)
+- [Live Demo](https://thunderrohan.github.io/Portfolio-Website/)
 
 ### Stone,Paper and Scissors Game
 - Fun Interactive game
 - Displays Score
-- [Live Demo](https://thunderrohannn.github.io/rock-paper-scissors/)
+- [Live Demo](https://thunderrohan.github.io/rock-paper-scissors/)
 
 Thanks that's all for now!
